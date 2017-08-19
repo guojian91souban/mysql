@@ -1,0 +1,7 @@
+[mysqld]
+skip-host-cache
+skip-name-resolve
+[client]
+default-character-set=utf8
+[mysql]
+default_character_set=utf8
